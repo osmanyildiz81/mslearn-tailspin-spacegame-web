@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yildiz-osman/Space%20Game%20-%20web-delivery%20plan/_apis/build/status/osmanyildiz81.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/yildiz-osman/Space%20Game%20-%20web-delivery%20plan/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
